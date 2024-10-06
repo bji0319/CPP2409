@@ -9,4 +9,4 @@ int main()
    //s2= s1 + " " + 10 + "개";
    s2= s1 + " " + to_sting(10) + "개";
    cout << s2 << endl;
-}
+} 
